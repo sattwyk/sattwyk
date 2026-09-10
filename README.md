@@ -1,4 +1,4 @@
-software engineer interested in backend systems, distributed systems and deterministic testing.
+software engineer interested in backend systems, distributed systems and deterministic simulation testing.
 
 currently working on:
 
