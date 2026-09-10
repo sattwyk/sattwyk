@@ -1,9 +1,13 @@
-software engineer. i build things — infrastructure, backend systems, product features, frontend when needed.
+software engineer interested in backend systems, distributed systems and deterministic testing.
 
-work mostly in typescript, comfortable adapting to different stacks and languages.
+currently working on:
 
-currently: building [mailmon](https://mailmon.app), an ai email assistant
+* 🧪 **adversary** - deterministic simulation testing harness in rust + wasm
+* 🔑 **rkv** - replicated key-value store in rust for learning replication, failures and consensus
+* 📬 **mailmon** - gmail sync infrastructure with durable cursors, transactional state and replayable event delivery
 
-if you're looking to work together: [hi@sattwyk.com](mailto:hi@sattwyk.com)
+trying to get better at building systems that stay correct when things fail.
 
-[sattwyk.com](https://sattwyk.com)
+previously built stuff around kafka, payments and a bunch of early-stage products.
+
+https://sattwyk.com · [hi@sattwyk.com](mailto:hi@sattwyk.com)
